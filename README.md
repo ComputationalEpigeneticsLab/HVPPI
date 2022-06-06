@@ -20,4 +20,4 @@ The protein-protein interactions (PPIs) between human and viruses play important
 ![](https://github.com/ComputationalEpigeneticsLab/HVPPI/blob/main/figures/fig2.jpg)
 
 ## Cite
-Si Li, Weiwei Zhou, Donghao Li, Tao Pan, Jing Guo, Haozhe Zou, Zhanyu Tian, Kongning Li, Juan Xu, Xia Li, Yongsheng Li. Comprehensive characterization of human–virus protein-protein interactions reveals disease comorbidities and potential antiviral drugs, Computational and Structural Biotechnology Journal,Volume 20,2022.
+Li S, Zhou W, Li D, Pan T, Guo J, Zou H, Tian Z, Li K, Xu J, Li X, Li Y. Comprehensive characterization of human-virus protein-protein interactions reveals disease comorbidities and potential antiviral drugs. Comput Struct Biotechnol J. 2022 Mar 7;20:1244-1253. doi: 10.1016/j.csbj.2022.03.002. PMID: 35356543; PMCID: PMC8924640.
